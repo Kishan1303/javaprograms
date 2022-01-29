@@ -12,7 +12,7 @@ class patt {
 	//  For Lopp Ex
 		for(int i=1;i<=a;i++)
 		{
-			//for(int k=1;k<="";k++)
+			
 			for(int j=1;j<=i;j++)
 			{
 			System.out.print(j);
