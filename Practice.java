@@ -10,19 +10,20 @@ S = z;
     Switch (z)
 {
     Case "+":
-     C=a+b;
-      System.out.println(c);
+     Z= X+y;
+      System.out.println(z);
     Case "-":
-     C=a-b;
-      System.out.println(c);
+          Z= X-y;
+      System.out.println(z);
 
     Case "/":
-     C=a/b;
-      System.out.println(c);
+          Z= X/y;
+      System.out.println(z);
 
     Case "*":
-     C=a*b;
-      System.out.println(c);
+     Z= X*y;
+     
+      System.out.println(z);
 }
        
 } 
